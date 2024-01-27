@@ -1,0 +1,5 @@
+site_name: Krishna Sites
+pages:
+- Overview: index.md
+
+theme: readthedocs
