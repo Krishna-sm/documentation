@@ -1,5 +1,6 @@
 site_name: Krishna Sites
 pages:
 - Overview: index.md
+- Tutorial: ra.md
 
 theme: readthedocs
